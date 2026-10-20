@@ -16,7 +16,7 @@
     "url": "aHR0cHM6Ly9mZWVkLmFuaW1ldG9zaG8ubmV0",
     "description": "Aggregator with anidb episode-ID mapping. High accuracy via exact ID lookup, falls back to text search.",
     "icon": "https://animetosho.net/favicon.ico",
-    "update": "",
-    "code": ""
+    "update": "https://raw.githubusercontent.com/HarunaIzumi/extension-test-repo/refs/heads/main/index.json",
+    "code": "https://raw.githubusercontent.com/HarunaIzumi/extension-test-repo/refs/heads/main/animetosho.js"
   }
 ]
