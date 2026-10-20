@@ -1,0 +1,22 @@
+[
+  {
+    "manifestVersion": 2,
+    "name": "AnimeTosho (NET)",
+    "id": "haru.animetoshofix",
+    "version": "1.0.29",
+    "type": "torrent",
+    "accuracy": "high",
+    "updatePeers": false,
+    "ratio": 0,
+    "media": "both",
+    "languages": [
+      "ALL"
+    ],
+    "nsfw": false,
+    "url": "aHR0cHM6Ly9mZWVkLmFuaW1ldG9zaG8ubmV0",
+    "description": "Aggregator with anidb episode-ID mapping. High accuracy via exact ID lookup, falls back to text search.",
+    "icon": "https://animetosho.net/favicon.ico",
+    "update": "",
+    "code": ""
+  }
+]
